@@ -1,2 +1,2 @@
 # California_House_Pricing
-Machine Learning model created to predict house price based on California House Pricing Dataset.
+Repository ini berisi hasil pengerjaan Capstone Project Module 3. Dataset yang digunakan adalah California House Pricing Dataset. Tujuan dari project ini adalah membuat model Machine Learning yang dapat memprediksi harga dari sebuah rumah.
